@@ -1377,10 +1377,10 @@
 				font-size: 4em;
 				padding: 0 0.5em 0.25em 0.5em;
 				border-bottom: solid 2px #ffffff;
-				font-weight: 200;
-				font-family: "Courier", cursive;
+				font-weight: 400;
+				font-family: "Arial", sans-serif;
 				text-transform: none;
-				letter-spacing: 0;
+				letter-spacing: 14px;
 			}
 
 			#header.alt p {
